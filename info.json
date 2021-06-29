@@ -1,0 +1,10 @@
+{
+  "Id": "LeanToggle",
+  "DisplayName": "Lean Toggle",
+  "Author": "Zeibach",
+  "Version": "1.0.0",
+  "AssemblyName": "LeanToggle.dll",
+  "EntryMethod": "DvMod.LeanToggle.Main.Load",
+  "HomePage": "https://www.nexusmods.com/derailvalley/mods/???",
+  "Repository": "https://raw.githubusercontent.com/mspielberg/dv-leantoggle/master/resources/repository.json"
+}
